@@ -1,6 +1,8 @@
 # shellscript-sample
 
-PHP・MariaDBインストールサンプル
+- PHP・MariaDBインストールサンプル
+
+- SQLのセットアップは手動
 ```
 環境バージョン
 EC2：Ubuntu22.04
